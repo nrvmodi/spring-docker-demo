@@ -4,6 +4,6 @@ services:
 
   java-demo:
     image: test/spring-docker-demo
-    container_name: java-demo
+    container_name: spring-docker-demo
     ports:
       - 8080:8080
